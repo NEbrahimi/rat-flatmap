@@ -1524,15 +1524,13 @@
             "models": "ILX:0739296",
             "name": "fifth lumbar sympathetic ganglion"
         },
-        "S62_L6": {
+        "S46_L6": {
             "models": "ILX:0739297",
-            "name": "sixth lumbar sympathetic ganglion",
-            "comment": "Id should be S46_L6"
+            "name": "sixth lumbar sympathetic ganglion"
         },
-        "S66_S1": {
+        "S46_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion",
-            "comment": "Id should be S46_S1"
+            "name": "First sacral ganglion"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -2171,6 +2169,12 @@
         "brain_46-1": {
             "class": "brain_46"
         },
+		"brain_47-1": {
+            "class": "brain_47"
+        },
+		"brain_48-1": {
+            "class": "brain_48"
+        },
         "brain_5-1": {
             "class": "brain_5"
         },
@@ -2344,9 +2348,6 @@
             ]
         },
         "digestive_10-1": {
-            "class": "digestive_10"
-        },
-        "digestive_10-2": {
             "class": "digestive_10"
         },
         "digestive_12-1": {
@@ -2790,6 +2791,21 @@
                 "https://sparc.science/datasets/63?type=dataset"
             ]
         },
+		"skeleton_1-1": {
+        	"class": "skeleton_1"
+		},
+		"skeleton_2-1": {
+        	"class": "skeleton_2"
+		},
+		"skeleton_3-1": {
+        	"class": "skeleton_3"
+		},
+		"skeleton_4-1": {
+        	"class": "skeleton_4"
+		},
+		"skeleton_5-1": {
+        	"class": "skeleton_5"
+		},
         "spinal_1-1": {
             "class": "spinal_1"
         },
