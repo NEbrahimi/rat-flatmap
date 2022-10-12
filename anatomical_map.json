@@ -563,6 +563,50 @@
         "term": "UBERON:0010398",
         "name": "Spleen Marginal Sinus"
     },
+	"digestive_65": {
+        "term": "UBERON:0003216",
+        "name": "hard palate"
+    },
+	"digestive_66": {
+        "term": "UBERON:0001733",
+        "name": "soft palate"
+    },
+	"digestive_67": {
+        "term": "FMA:12516",
+        "name": "tooth"
+    },
+	"digestive_68": {
+        "term": "UBERON:0010061",
+        "name": "lumen of nasopharynx"
+    },
+	"digestive_69": {
+        "term": "UBERON:0001175",
+        "name": "common hepatic duct"
+    },
+	"digestive_70": {
+        "term": "UBERON:0001832",
+        "name": "sublingual gland"
+    },
+	"skeleton_1": {
+        "term": "UBERON:0001684",
+        "name": "mandible"
+    },
+	"skeleton_2": {
+        "term": "UBERON:0001685",
+        "name": "hyoid bone"
+    },
+	"skeleton_3": {
+        "term": "UBERON:0003129",
+        "name": "skull"
+    },
+	"skeleton_4": {
+        "term": "UBERON:0001760",
+        "name": "frontal sinus"
+    },
+	"skeleton_5": {
+        "term": "UBERON:0001724",
+        "name": "sphenoidal sinus"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -602,6 +646,22 @@
     "reproductive_10": {
         "term": "UBERON:0000998",
         "name": "seminal vesicle"
+    },
+	"reproductive_11": {
+        "term": "UBERON:0001299",
+        "name": "glans penis"
+    },
+	"reproductive_12": {
+        "term": "UBERON:0004713",
+        "name": "corpus cavernosum penis"
+    },
+	"reproductive_13": {
+        "term": "UBERON:0001000",
+        "name": "vas deferens"
+    },
+	"reproductive_14": {
+        "term": "UBERON:0001911",
+        "name": "mammary gland"
     },
     "muscle_1": {
         "term": "ILX:0738319",
@@ -1098,6 +1158,14 @@
     "brain_46": {
         "term": "UBERON:0001359",
         "name": "Cerebrospinal Fluid"
+    },
+	"brain_47": {
+        "term": "FMA:62493",
+        "name": "hippocampus"
+    },
+	"brain_48": {
+        "term": "UBERON:0001874",
+        "name": "putamen"
     },
     "bolser_3": {
         "term": "ILX:0738308",
